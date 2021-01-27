@@ -25,4 +25,4 @@ Generally I would recommend exercising extreme care before changing the default 
 Below is the diagram I have put together based on my understanding on how MMS works and what performance knobs do we have for which components –
 
 
-![Multi Model Server Framework Runtime Architecture](https://github.com/dhawalkp/SageMaker-MMS-Performance-Tuning/blob/main/MMS.png =1000x500 "Multi-Model Server Runtime Architecture")
+![Multi Model Server Framework Runtime Architecture](https://github.com/dhawalkp/SageMaker-MMS-Performance-Tuning/blob/main/MMS.png =1000x500)
