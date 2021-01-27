@@ -13,4 +13,4 @@ Generally I would recommend exercising extreme care before changing the default 
 Below is the diagram I have put together based on my understanding on how MMS works and what performance knobs do we have for which components –
 
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![picture alt](./blob/main/MMS.png "Multi-Model Server Runtime Architecture")
