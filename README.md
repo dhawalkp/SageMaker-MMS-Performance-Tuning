@@ -1,5 +1,6 @@
 # Amazon SageMaker Multi-Model Server Framework Performance Tuning Tips
 
+*Disclaimer: This is based on my understanding of the MMS code, public documentation available on MMS and my experience working on MMS so far. Complete disclaimer that this is only my understanding and may not be fully accurate. The views and opinions expressed does not reflect my employer's i.e. Amazon Web Services Opinions*
 
 ## High level Performance Tuning Tips
 
